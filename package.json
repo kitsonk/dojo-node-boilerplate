@@ -1,0 +1,19 @@
+{
+	"name": "dojo-node-boilerplate",
+	"version": "1.0.0",
+	"dependencies": {
+	},
+	"engines": {
+		"node": "0.8.x",
+		"npm": "1.1.x"
+	},
+	"main": "server",
+	"licenses": [
+		{
+			"type": "BSD",
+			"url": "https://github.com/kitsonk/dote-node-boilerplate/blob/master/LICENSE"
+		}
+	],
+	"homepage": "https://github.com/kitsonk/dote-node-boilerplate/",
+	"readmeFilename": "README.md"
+}

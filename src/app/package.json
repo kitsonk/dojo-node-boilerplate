@@ -1,0 +1,15 @@
+{
+	"name": "app",
+	"version": "1.0.0",
+	"dependencies": {
+		"dojo": "~1.8"
+	},
+	"main": "server",
+	"licenses": [
+		{
+			"type": "BSD",
+			"url": "https://github.com/kitsonk/dote-node-boilerplate/blob/master/LICENSE"
+		}
+	],
+	"homepage": "https://github.com/kitsonk/dote-node-boilerplate/"
+}
