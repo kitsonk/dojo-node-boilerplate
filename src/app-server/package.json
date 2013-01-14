@@ -4,13 +4,12 @@
 	"dependencies": {
 		"dojo": "~1.8"
 	},
-	"main": "main",
+	"main": "server",
 	"licenses": [
 		{
 			"type": "BSD",
 			"url": "https://github.com/kitsonk/dote-node-boilerplate/blob/master/LICENSE"
 		}
 	],
-	"homepage": "https://github.com/kitsonk/dote-node-boilerplate/",
-	"dojoBuild": "package.js"
+	"homepage": "https://github.com/kitsonk/dote-node-boilerplate/"
 }

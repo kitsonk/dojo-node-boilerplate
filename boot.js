@@ -1,5 +1,9 @@
-// The module to "bootstrap"
-var loadModule = "app-server/server";
+// Retrieve the module name from the command line (it will take the
+// last argument)
+var loadModule = process.argv[process.argv.length - 1];
+
+// Inform the user what module is being loaded
+console.log("Bootstrapping: '" + loadModule + "'...");
 
 // Configuration Object for Dojo Loader:
 dojoConfig = {
