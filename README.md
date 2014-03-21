@@ -2,7 +2,8 @@
 ## A Starter Kit for Dojo/NodeJS Development
 
 This is a set of files to help you rapidly get up and running with the Dojo Toolkit running under [NodeJS][node].
-My corresponding tutorial can be found [here][tutorial]
+
+My corresponding tutorial can be found [here][tutorial].
 
 This boilerplate is informed by the work done by both [csnover][csnover] and [neonstalwart][neonstalwart] who
 assembled the original [dojo-boilerplate][db] and [dojo-requirejs-template][drt] respectively.
