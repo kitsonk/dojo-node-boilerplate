@@ -3,6 +3,8 @@
 
 This is a set of files to help you rapidly get up and running with the Dojo Toolkit running under [NodeJS][node].
 
+My corresponding tutorial can be found [here][tutorial].
+
 This boilerplate is informed by the work done by both [csnover][csnover] and [neonstalwart][neonstalwart] who
 assembled the original [dojo-boilerplate][db] and [dojo-requirejs-template][drt] respectively.
 
@@ -30,6 +32,7 @@ Contributions are more than welcome, but please read the [contribution guideline
 This is licensed under the ["New" BSD License][license].
 
 [node]: http://nodejs.org/
+[tutorial]: http://dojotoolkit.org/documentation/tutorials/1.9/node/
 [db]: https://github.com/csnover/dojo-boilerplate/
 [drt]: https://github.com/neonstalwart/dojo-requirejs-template/
 [csnover]: https://github.com/csnover
